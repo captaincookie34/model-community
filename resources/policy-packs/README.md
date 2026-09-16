@@ -8,7 +8,11 @@ Before contributing a policy, we recommend reaching out by [opening an issue](ht
 
 ### Submit a pull request from GitHub on the web
 
-If you are not familiar with the process of contributing to an open source project on GitHub, you can follow these directions. They seem long, but that's because they document _every_ single step along the way; we promise it's not hard!
+If you are not familiar with the process of contributing to an open source project on GitHub, you can follow these directions. If you prefer to follow along with a video, here is a recording of the process:
+
+[![Video thumbnail](thumb.png)](https://youtu.be/SqQdwlZla4w)
+
+The process may seem long, but that's because we cover _every_ single step along the way; we promise it's not hard!
 
 1. **Sign up for a [GitHub account](https://docs.github.com/en/account-and-profile) account**: Contributing currently requires an account with GitHub. We recommend choosing a username that will be recognizable or memorable as _you_ to others in the ROOST community, but you can also use a pseudonym.
 
