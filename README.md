@@ -19,6 +19,7 @@ You can browse the current resources directly on GitHub:
 - [cope-b/](cope-b): Resources and projects related to Zentropi's bring your own policy safety model
 - [gpt-oss-safeguard/](gpt-oss-safeguard): Resources and projects related to OpenAI's bring your own policy safety reasoning model
 - [mila/](mila): Resources and projects related to Mila's suicide-asisstance prevention guardrail
+- [musubi-policylm/](musubi-policylm): Resources and projects related to Musubi's policy-conditioned content moderation classifier
 - [projects/](projects): Interesting demos that are not RMC-model-specific
 - [resources/](resources): Community-wide resources for using open safety models, not tied to any single RMC Partner. Includes:
   - [RMC Guide to Using Open Safety Models](resources/RMC%20Guide%20to%20Using%20Open%20Safety%20Models.md) — an introduction to applying open safety models across the Detection, Investigation, Review, and Enforcement stages of a T&S architecture
@@ -65,6 +66,7 @@ Although there are many open safety models, we hold a specific bar for RMC Partn
 
 - Mila: [Mila-Suicide-Prevention-Output-Guardrail](https://huggingface.co/mila-ai4h/Mila-Suicide-Prevention-Output-Guardrail)
 - Mistral: [Shieldstral-1.0-3B](https://huggingface.co/mistralai/Shieldstral-1.0-3B)
+- Musubi Labs: [PolicyLM-1.7B](https://huggingface.co/musubilabs/policylm-1.7b)
 - OpenAI: [gpt-oss-safeguard](https://huggingface.co/collections/openai/gpt-oss-safeguard)
 - Roblox: [Sentinel](https://github.com/Roblox/Sentinel), [voice-safety-classifier-v3](https://huggingface.co/Roblox/voice-safety-classifier-v3), [roblox-pii-classifier-v2](https://huggingface.co/Roblox/roblox-pii-classifier-v2)
 - Zentropi: [CoPE-B-A4B](https://huggingface.co/zentropi-ai/cope-b-a4b)
