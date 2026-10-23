@@ -7,7 +7,7 @@
 
 # CoPE-B-S1
 
-- [Download CoPE-B-A4B on HuggingFace](https://huggingface.co/zentropi-ai/cope-b-s1)
+- [Download CoPE-B-S1 on HuggingFace](https://huggingface.co/zentropi-ai/cope-b-s1)
 - [Zentropi Announcement](https://blog.zentropi.ai/meet-cope-b-s1-an-open-decision-model-tuned-for-safety/)
 - [Model Card](https://huggingface.co/zentropi-ai/cope-b-s1)
 
