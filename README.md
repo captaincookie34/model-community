@@ -17,6 +17,7 @@ This repository serves as the home to find resources for the community, includin
 You can browse the current resources directly on GitHub:
 
 - [cope-b/](cope-b): Resources and projects related to Zentropi's bring your own policy safety model
+- [cope-b-s1/](cope-b-s1): Resources and projects related to Zentropi's safety-tuned decision model that speaks the System One spec
 - [gpt-oss-safeguard/](gpt-oss-safeguard): Resources and projects related to OpenAI's bring your own policy safety reasoning model
 - [mila/](mila): Resources and projects related to Mila's suicide-asisstance prevention guardrail
 - [musubi-policylm/](musubi-policylm): Resources and projects related to Musubi's policy-conditioned content moderation classifier
@@ -69,7 +70,7 @@ Although there are many open safety models, we hold a specific bar for RMC Partn
 - Musubi Labs: [PolicyLM-1.7B](https://huggingface.co/musubilabs/policylm-1.7b)
 - OpenAI: [gpt-oss-safeguard](https://huggingface.co/collections/openai/gpt-oss-safeguard)
 - Roblox: [Sentinel](https://github.com/Roblox/Sentinel), [voice-safety-classifier-v3](https://huggingface.co/Roblox/voice-safety-classifier-v3), [roblox-pii-classifier-v2](https://huggingface.co/Roblox/roblox-pii-classifier-v2)
-- Zentropi: [CoPE-B-A4B](https://huggingface.co/zentropi-ai/cope-b-a4b)
+- Zentropi: [CoPE-B-A4B](https://huggingface.co/zentropi-ai/cope-b-a4b) and [CoPE-B-S1](https://huggingface.co/zentropi-ai/cope-b-s1)
 
 RMC Partners receive a variety of benefits, including:
 
