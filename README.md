@@ -4,7 +4,7 @@ Welcome to the ROOST Model Community (RMC)! The RMC’s mission is to make open 
 
 The RMC seeks to add tangible value for both active and potential users of open safety models and the developers of those models (called RMC Partners). Participants in the RMC benefit from:
 
-- **A Community of Trust**: We only partner with high quality open safety models that you can trust; see our [eligibility criteria](eligibility-criteria.md) for model selection. The RMC also stewards community conversations to encourage continued engagement and collective problem solving, via both routine events and casual conversations in our [Discord server].
+- **A Community of Trust**: We only partner with high quality open safety models that you can trust; see our [eligibility criteria] for model selection. The RMC also stewards community conversations to encourage continued engagement and collective problem solving, via both routine events and casual conversations in our [Discord server].
 
 - **Education and Implementation Support**: We share resources to help you better understand the open safety landscape, including introductory guides to AI for Trust & Safety and evaluation outcomes. Once you’re ready to use a specific model, the RMC also provides implementation tips and documentation, such as sample datasets or direct integrations with other ROOST projects.
 
@@ -61,7 +61,7 @@ For our purposes, we see “open safety models” as an AI model (including but 
 
 Additionally, we prefer models that do not have non-commercial licenses and licenses that do not place restrictions on how outputs are handled. This is because many use cases for these models happen in commercial environments and have reporting requirements (such as CSAM). These license restrictions are incompatible with the Trust & Safety users we aim to support.
 
-Although there are many open safety models, we hold a specific bar for RMC Partners. To formally become an RMC partner, a model must meet our [eligibility criteria](eligibility-criteria.md). We work closely with RMC partners to ensure that their models meet these criteria before adding them to the community. For any questions about these criteria, please feel free to reach out – we designed these criteria to meet the community’s needs and are open to feedback!
+Although there are many open safety models, we hold a specific bar for RMC Partners. To formally become an RMC partner, a model must meet our [eligibility criteria]. We work closely with RMC partners to ensure that their models meet these criteria before adding them to the community. For any questions about these criteria, please feel free to reach out – we designed these criteria to meet the community’s needs and are open to feedback!
 
 ## RMC Partners
 
